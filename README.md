@@ -13,7 +13,7 @@ DEFAULT COLLATE gb2312_chinese_ci;
 ### 查看数据库
 
 ```mysql
-show databases;
+SHOW databases;
 ```
 
  
